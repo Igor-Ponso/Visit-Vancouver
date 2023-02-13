@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+@types/auto-imports.d.ts
+@types/components.d.ts
+
+coverage
+
+*.log
+yarn.lock
+package-lock.json
